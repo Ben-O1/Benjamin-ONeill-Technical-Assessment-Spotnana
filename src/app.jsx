@@ -1,4 +1,4 @@
-// app.jsx
+// Main application component
 import React from 'react';
 import PromptInput from './components/PromptInput.jsx';
 import ResponseDisplay from './components/ResponseDisplay.jsx';

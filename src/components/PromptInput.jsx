@@ -1,4 +1,4 @@
-// components/PromptInput.jsx
+// Component for user input prompts
 import React, { useState } from 'react';
 
 const PromptInput = ({ onSubmit, loading }) => {

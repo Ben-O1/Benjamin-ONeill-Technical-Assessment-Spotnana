@@ -1,4 +1,4 @@
-// components/ErrorMessage.jsx
+// Component to display error messages
 import React from 'react';
 
 const ErrorMessage = ({ error }) => {

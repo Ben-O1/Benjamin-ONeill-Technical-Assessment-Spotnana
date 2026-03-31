@@ -1,4 +1,4 @@
-// components/ResponseDisplay.jsx
+// Component to display AI responses
 import React from 'react';
 
 const ResponseDisplay = ({ response, history }) => {

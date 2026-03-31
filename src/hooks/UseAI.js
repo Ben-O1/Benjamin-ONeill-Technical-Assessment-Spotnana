@@ -1,4 +1,4 @@
-// hooks/UseAI.js
+// Custom hook for AI functionality
 import { useState } from 'react';
 import { fetchAIResponse } from '../services/api.js';
 

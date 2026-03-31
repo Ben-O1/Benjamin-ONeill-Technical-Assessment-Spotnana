@@ -1,2 +1,2 @@
-// config.js
+// Application configuration settings
 export const API_KEY = import.meta.env.VITE_OPENAI_API_KEY;

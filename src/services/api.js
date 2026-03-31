@@ -1,4 +1,4 @@
-// services/api.js
+// API service functions
 import { API_KEY } from '../config.js';
 
 export const fetchAIResponse = async (prompt) => {
