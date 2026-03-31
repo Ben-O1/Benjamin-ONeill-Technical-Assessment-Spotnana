@@ -18,6 +18,8 @@ A lightweight React app that allows users to input prompts, submit them to an AI
 
 1. **Clone The Repo**
    ``` From github clone the repo to your local machine
+   https://github.com/Ben-O1/Benjamin-ONeill-Technical-Assessment-Spotnana.git
+   ```
 
 2. **Install dependencies:**
    ```bash
