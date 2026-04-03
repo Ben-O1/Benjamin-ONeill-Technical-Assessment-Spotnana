@@ -34,7 +34,7 @@ A lightweight React app that allows users to input prompts, submit them to an AI
 4. **Open your browser** and navigate to `http://localhost:5173` (or the port shown in the terminal).
 
 ### API Configuration
-The app uses OpenAI's API. The API key is configured in `src/config.js`. For production, consider using environment variables instead of hardcoding the key.
+The app uses OpenAI's API. The API key is configured in `src/config.js` importing it from the local .env file.
 
 ### Project Structure
 - `src/app.jsx`: Main app component
